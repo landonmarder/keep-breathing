@@ -258,6 +258,24 @@
 .Game-minimapPlayer--purple {
   background: var(--purple);
 }
+.Game-minimapPlayer--brown {
+   background: var(--brown);
+  }
+.Game-minimapPlayer--pink {
+   background: var(--pink);
+  }
+.Game-minimapPlayer--turquoise {
+   background: var(--turquoise);
+  }
+.Game-minimapPlayer--lime {
+   background: var(--lime);
+  }
+.Game-minimapPlayer--gold {
+   background: var(--gold);
+  }
+.Game-minimapPlayer--slate {
+   background: var(--slate);
+  }
 
 .Game-scoreCard {
   position: fixed;
@@ -306,6 +324,24 @@
 }
 .Game-player--purple::before {
   background: var(--purple);
+}
+.Game-player--brown::before {
+  background: var(--brown);
+}
+.Game-player--pink::before {
+  background: var(--pink);
+}
+.Game-player--turquoise::before {
+  background: var(--turquoise);
+}
+.Game-player--lime::before {
+  background: var(--lime);
+}
+.Game-player--gold::before {
+  background: var(--gold);
+}
+.Game-player--slate::before {
+  background: var(--slate);
 }
 .Game-player--current::before {
   animation: 1s blink infinite;

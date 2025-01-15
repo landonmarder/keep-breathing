@@ -59,6 +59,24 @@
 .GameLobby-button--purple {
   background: var(--purple);
 }
+.GameLobby-button--brown {
+  background: var(--brown);
+}
+.GameLobby-button--pink {
+  background: var(--pink);
+}
+.GameLobby-button--turquoise {
+  background: var(--turquoise);
+}
+.GameLobby-button--lime {
+  background: var(--lime);
+}
+.GameLobby-button--gold {
+  background: var(--gold);
+}
+.GameLobby-button--slate {
+  background: var(--slate);
+}
 
 .GameLobby-icon {
   fill: #fff;

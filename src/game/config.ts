@@ -1,4 +1,4 @@
-export const MAX_NUM_PLAYERS = 6;
+export const MAX_NUM_PLAYERS = 12;
 
 export type PlayerColor =
   | "red"
@@ -6,7 +6,14 @@ export type PlayerColor =
   | "yellow"
   | "green"
   | "blue"
-  | "purple";
+  | "purple"
+  | "brown"
+  | "pink"
+  | "turquoise"
+  | "lime"
+  | "gold"
+  | "slate";
+
 export const PLAYER_COLORS: PlayerColor[] = [
   "red",
   "orange",
@@ -14,4 +21,10 @@ export const PLAYER_COLORS: PlayerColor[] = [
   "green",
   "blue",
   "purple",
+  "brown",
+  "pink",
+  "turquoise",
+  "lime",
+  "gold",
+  "slate"
 ];

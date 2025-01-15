@@ -5,6 +5,7 @@
   width: 1.6em;
   z-index: 100;
 }
+
 .Meeple-icon--red {
   fill: var(--red);
 }
@@ -22,4 +23,22 @@
 }
 .Meeple-icon--purple {
   fill: var(--purple);
+}
+.Meeple-icon--brown {
+  fill: var(--brown);
+}
+.Meeple-icon--pink {
+  fill: var(--pink);
+}
+.Meeple-icon--turquoise {
+  fill: var(--turquoise);
+}
+.Meeple-icon--lime {
+  fill: var(--lime);
+}
+.Meeple-icon--gold {
+  fill: var(--gold);
+}
+.Meeple-icon--slate {
+  fill: var(--slate);
 }

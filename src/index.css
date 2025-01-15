@@ -10,6 +10,12 @@ body {
   --green: #08a045;
   --blue: #39a0ed;
   --purple: #5b2a86;
+  --brown: #8B4513;
+  --pink: #FF69B4;
+  --turquoise: #40E0D0;
+  --lime: #32CD32;
+  --gold: #FFD700;
+  --slate: #708090;
   background: var(--dark-blue);
   color: var(--dark-blue);
   font-size: 16px;

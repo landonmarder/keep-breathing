@@ -32,6 +32,25 @@
 .Diver--purple.Diver--currentTurn::before {
   border-color: var(--purple);
 }
+.Diver--brown.Diver--currentTurn::before {
+  border-color: var(--brown);
+}
+.Diver--pink.Diver--currentTurn::before {
+  border-color: var(--pink);
+}
+.Diver--turquoise.Diver--currentTurn::before {
+  border-color: var(--turquoise);
+}
+.Diver--lime.Diver--currentTurn::before {
+  border-color: var(--lime);
+}
+.Diver--gold.Diver--currentTurn::before {
+  border-color: var(--gold);
+}
+.Diver--slate.Diver--currentTurn::before {
+  border-color: var(--slate);
+}
+
 
 .Diver-hand {
   bottom: 100%;
